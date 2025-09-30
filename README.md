@@ -27,3 +27,8 @@ Copie a senha para a área de transferência com facilidade.
 - HTML5 – Estrutura da página
 - CSS3 – Estilização e layout
 - JavaScript – Lógica para gerar e copiar senhas
+
+---
+
+📁 Como visualizar o projeto
+Você pode clonar o repositório e abrir o arquivo `index.html` no seu navegador.
