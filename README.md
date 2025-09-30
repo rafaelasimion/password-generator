@@ -12,10 +12,10 @@ Ele permite criar senhas personalizadas com diferentes tipos de caracteres e tam
 Defina o tamanho da senha com um controle deslizante.
 Escolha quais tipos de caracteres incluir:
 
-🔠 Letras maiúsculas
-🔡 Letras minúsculas
-🔢 Números
-🔣 Símbolos
+- 🔠 Letras maiúsculas
+- 🔡 Letras minúsculas
+- 🔢 Números
+- 🔣 Símbolos
 
 Gere uma senha segura com apenas um clique.
 Copie a senha para a área de transferência com facilidade.
@@ -24,6 +24,6 @@ Copie a senha para a área de transferência com facilidade.
 
 🛠️ Tecnologias utilizadas
 
-HTML5 – Estrutura da página
-CSS3 – Estilização e layout
-JavaScript – Lógica para gerar e copiar senhas
+- HTML5 – Estrutura da página
+- CSS3 – Estilização e layout
+- JavaScript – Lógica para gerar e copiar senhas
