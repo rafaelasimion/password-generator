@@ -1,4 +1,4 @@
-🔐 Password Generator
+## 🔐 Password Generator
 
 Um projeto simples e funcional de gerador de senhas seguras, desenvolvido com HTML, CSS e JavaScript.
 Ele permite criar senhas personalizadas com diferentes tipos de caracteres e tamanhos, tudo de forma rápida e intuitiva.
@@ -7,7 +7,7 @@ Ele permite criar senhas personalizadas com diferentes tipos de caracteres e tam
 
 ---
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 Defina o tamanho da senha com um controle deslizante.
 Escolha quais tipos de caracteres incluir:
@@ -22,7 +22,7 @@ Copie a senha para a área de transferência com facilidade.
 
 ---
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - HTML5 – Estrutura da página
 - CSS3 – Estilização e layout
@@ -30,5 +30,5 @@ Copie a senha para a área de transferência com facilidade.
 
 ---
 
-📁 Como visualizar o projeto
+### 📁 Como visualizar o projeto
 Você pode clonar o repositório e abrir o arquivo `index.html` no seu navegador.
